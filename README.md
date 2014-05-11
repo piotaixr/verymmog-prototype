@@ -30,6 +30,6 @@ Utility to check the stability of the server by creating a large number of bots 
 
 # Authors
 
-Dalle Marion @:<mariondallesoulard, Gmail>
+Dalle Marion @:mariondallesoulard, Gmail
 
-Piotaix Rémi @:<remi.piotaix, Gmail>
+Piotaix Rémi @:remi.piotaix, Gmail
