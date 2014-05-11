@@ -27,3 +27,9 @@ The application. It is the graphical client for all the players.
 ## Botlaucher
 
 Utility to check the stability of the server by creating a large number of bots moving in random directions.
+
+# Authors
+
+Dalle Marion @:<mariondallesoulard, Gmail>
+
+Piotaix Rémi @:<remi.piotaix, Gmail>
